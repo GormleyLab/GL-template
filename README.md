@@ -1,2 +1,4 @@
 # GL-template
 Gormley Lab repository template
+
+This is a basic template for Python repositories in the Gormley Lab. These repositories follow the src/ layout. The entry point to the program is through main.py and the main code is in the src/ directory where the project's package exists. Replace the name of the package with a descriptive title keeping it lowercase and separating spaces with '_'. It is best practice to use object oriented programming and therefore classes. Utils.py or .py files within a subfolder named Utils is a great place to keep functions that are general to the whole program and don't exist in classes. 
